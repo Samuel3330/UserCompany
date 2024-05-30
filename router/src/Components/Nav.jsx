@@ -10,7 +10,7 @@ const Nav = () => {
                 </li>
                 <li>
                     <Link to={'/Contact'}>
-                        Contact
+                        Album
                     </Link>
                 </li>
                 <li>
